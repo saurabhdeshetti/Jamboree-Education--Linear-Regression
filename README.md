@@ -1,4 +1,4 @@
-# Linear-Regression--Jamboree-Education
+# Jamboree Education - Linear Regression
 
 
 ## About Data
